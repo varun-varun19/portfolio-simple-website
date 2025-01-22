@@ -14,6 +14,9 @@ Technologies Used
 HTML5: Structure and content of the website.
 CSS3: Styling and layout design.
 
+Demo
+You can view the live website here: [https://varun-varun19.github.io/portfolio-simple-website/]
+
 uture Improvements
 Add responsiveness for better mobile viewing.
 Enhance styling using advanced CSS or frameworks like Tailwind CSS.
